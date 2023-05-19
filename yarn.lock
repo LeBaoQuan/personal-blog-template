@@ -11640,7 +11640,7 @@ __metadata:
     prettier: ^2.4.1
     react: ^17.0.2
     react-dom: ^17.0.2
-    react-query: ^3.28.0
+    react-query: ^3.39.3
     start-server-and-test: ^1.14.0
     stylelint: ^13.13.1
     stylelint-config-prettier: ^8.0.2
@@ -11894,7 +11894,7 @@ __metadata:
     react-color: ^2.19.3
     react-dom: ^17.0.2
     react-helmet: ^6.1.0
-    react-query: ^3.28.0
+    react-query: ^3.39.3
     react-share: ^4.4.0
     react-twitter-widgets: ^1.10.0
     remark-codesandbox: ^0.10.0
@@ -21731,6 +21731,24 @@ __metadata:
     react-native:
       optional: true
   checksum: 3199e105819110c4304045685304c605e903abdfa93cb787f8e23a8eb1a36b567b455081d5b80cf039bd5cbf0b96e608f2e82ed4ed362f79c73d3da008b3895b
+  languageName: node
+  linkType: hard
+
+"react-query@npm:^3.39.3":
+  version: 3.39.3
+  resolution: "react-query@npm:3.39.3"
+  dependencies:
+    "@babel/runtime": ^7.5.5
+    broadcast-channel: ^3.4.1
+    match-sorter: ^6.0.2
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0
+  peerDependenciesMeta:
+    react-dom:
+      optional: true
+    react-native:
+      optional: true
+  checksum: d2de6a0992dbf039ff2de564de1ae6361f8ac7310159dae42ec16f833b79c05caedced187235c42373ac331cc5f2fe9e2b31b14ae75a815e86d86e30ca9887ad
   languageName: node
   linkType: hard
 
